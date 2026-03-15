@@ -2,6 +2,12 @@
 
 **Interactive web-based simulation of telomere dynamics under radiation, oxidative stress, repair, and adaptive-response modeling.**
 
+## Citation
+
+If this tool contributes to research, presentation, or educational output, citation of the repository is recommended.
+
+Hernandez, J. P. T. Telomere Dynamics Simulation Dashboard. GitHub repository. 2026. https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard
+
 ## Overview
 
 **Telomere Dynamics Simulation Dashboard** is a web-based simulation tool for exploring how telomere length changes under radiation exposure, oxidative stress, repair capacity, and adaptive cellular responses over time. A biologically informed mathematical model is presented through an interactive visual interface that supports parameter adjustment, scenario exploration, and real-time interpretation of system behavior.
@@ -127,9 +133,3 @@ Clone the repository and open the appropriate HTML file or launch the local appl
 ```bash
 git clone https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard.git
 cd Telomere-Dynamics-Simulation-Dashboard
-
-## Citation
-
-If this tool contributes to research, presentation, or educational output, citation of the repository is recommended.
-
-**Hernandez, Joannes Paulus Tolentino.** *Telomere Dynamics Simulation Dashboard.* GitHub repository. 2026. Available at: `https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard`
