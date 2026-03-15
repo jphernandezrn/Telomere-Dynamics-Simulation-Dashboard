@@ -125,5 +125,11 @@ Typical repository contents may include the simulation dashboard source, static 
 Clone the repository and open the appropriate HTML file or launch the local application environment, depending on project structure.
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard.git
+cd Telomere-Dynamics-Simulation-Dashboard
+
+## Citation
+
+If this tool contributes to research, presentation, or educational output, citation of the repository is recommended.
+
+**Hernandez, Joannes Paulus Tolentino.** *Telomere Dynamics Simulation Dashboard.* GitHub repository. 2026. Available at: `https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard`
