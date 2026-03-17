@@ -6,7 +6,7 @@
 
 If this tool contributes to research, presentation, or educational output, citation of the repository is recommended.
 
-Hernandez, J. P. T. (2026). Telomere dynamics simulation dashboard [Computer software]. GitHub. https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard
+Hernandez, J. P. T. (2026). *Telomere Dynamics Simulation Dashboard* [Computer software]. GitHub. https://github.com/jphernandezrn/Telomere-Dynamics-Simulation-Dashboard
 
 ## Overview
 
